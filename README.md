@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajh30117
 - 👀 I’m interested in ... HTML, CSS, React, Tech Writing, and Learning Design
-- 🌱 I’m currently learning ... HTML and CSS
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sunsymbols.com
 
