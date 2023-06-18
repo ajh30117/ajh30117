@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ajh30117
-- 👀 I’m interested in ... HTML, CSS, React, Tech Writing, and Learning Design
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript, React
+- 👀 I’m interested in ... Content development, learning design, and software documentation
+- 🌱 I’m currently learning ... Python, reStructuredText
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... sunsymbols.com
+- 📫 How to reach me ... annahumphreywriting.com
 
 <!---
 ajh30117/ajh30117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
